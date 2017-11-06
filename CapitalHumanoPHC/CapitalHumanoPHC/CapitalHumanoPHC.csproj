@@ -216,6 +216,7 @@
       <DependentUpon>DepartmentList.aspx</DependentUpon>
     </Compile>
     <Compile Include="Entities\Department.cs" />
+    <Compile Include="Entities\Empleado.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
